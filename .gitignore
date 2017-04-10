@@ -1,0 +1,5 @@
+.idea/*
+!/.idea/runConfigurations
+.nyc_output
+coverage
+node_modules
